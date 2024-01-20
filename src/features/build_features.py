@@ -14,12 +14,5 @@ def read_tsv_file(file_path):
         return None
  
 
-# def column_data_types(df, dtypes):
-#         """Update column data types in a dataframe"""
-#         for col, dtype in dtypes.items():
-#             if col in df.columns:
-#                 df[col]=df[col].astype(dtype)
-#         return df
-                
                 
         
