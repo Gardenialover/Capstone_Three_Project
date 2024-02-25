@@ -1,7 +1,17 @@
 Capstone_Three_Project
 ==============================
+Drug Review Sentiment Analysis
 
-Hands on learning
+Overview
+the project forcuses on sentiment analysis of drug reviews, aiming to gain valuable insights into user sentiments toward various drug products. Leveraging ML models, through analyze textual data to understand customer perceptions, and enhance decision making in the pharmaceutical domain.
+
+Key Features
+
+1. Data Exploration: Explored and visualized dataset, identififying the key features and sentiment. Cleaning raw text data via removing special characters, stop words, correcting missspells.
+2. Featuring Engineering: Extracted relavant features such as word count, unique word count and sentiment scores.
+3. Sentiment analysis modles: Employed Multinomial Naive Bayes, Long short term memory (LSTM), and random forest modles to classfiy sentiments in drug reviews.
+
+Porject Structure
 
 Project Organization
 ------------
